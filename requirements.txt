@@ -1,0 +1,5 @@
+pandas
+requests
+schedule
+argparse
+newspaper3k
