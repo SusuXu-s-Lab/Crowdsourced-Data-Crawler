@@ -6,6 +6,7 @@ This repo is an automatic data crawling pipeline that automatically scrapes data
 
 - `/Waze_retrival`: Contains the source code for data retrival from Waze.
 - `/News_retrival`: Contains the source code for data retrival from NewsAPI and GDELT.
+- `/TikTok`: Contains the source code notebook for data retrival from TikTok.
 
 ## Instructions
 
